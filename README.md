@@ -7,7 +7,12 @@ My very own boilderplate configured [ReactJS](https://reactjs.org), [TypeScript]
 ```bash
 # clone the template
 npx degit cedriccastro99/react-ts-eslint-prettier-tailwind my-awesome-app-name
+
+# go to app directory
 cd my-awesome-app-name
+
+# open in vscode (optional) 
+code .
 
 # intialize git
 git init
