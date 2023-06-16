@@ -1,6 +1,6 @@
 # React-ts-eslint-prettier-tailwindcss boilerplate
 
-My very own boilderplate configured [ReactJS](https://reactjs.org), [TypeScript](https://www.typescriptlang.org), [Tailwindcss](https://tailwindcss.com), [Eslint](https://eslint.org), [Prettier](https://prettier.io)
+My very own boilerplate configured [ReactJS](https://reactjs.org), [TypeScript](https://www.typescriptlang.org), [Tailwindcss](https://tailwindcss.com), [Eslint](https://eslint.org), [Prettier](https://prettier.io)
 
 
 # Getting Started
